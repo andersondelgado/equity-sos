@@ -1,6 +1,6 @@
 ---
 applications:
-- name: goapiequitysos
+- name: equitysos
   random-route: true
   memory: 128M
 

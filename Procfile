@@ -1,1 +1,2 @@
-web: goapiequitysos
+web: equitysos
+
