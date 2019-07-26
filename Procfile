@@ -1,2 +1,2 @@
-web: equitysos
+web: equity-sos-api
 

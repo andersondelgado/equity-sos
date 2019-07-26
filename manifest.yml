@@ -1,6 +1,6 @@
----
-applications:
-- name: equitysos
-  random-route: true
-  memory: 128M
+ applications:
+ - name: EquitySOSApi
+   random-route: true
+   memory: 64M
+   
 

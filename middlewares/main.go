@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"../util"
+	"github.com/andersondelgado/equity-sos/util"
 	"github.com/gin-gonic/gin"
 )
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"../../config"
-	"../../model"
-	"../../util"
+	//"../../config"
+	//"../../model"
+	//"../../util"
 	"github.com/gin-gonic/gin"
 )
 

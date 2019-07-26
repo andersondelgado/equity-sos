@@ -7,9 +7,9 @@ import (
 	"log"
 	"strconv"
 
-	"../../config"
-	"../../model"
-	"../../util"
+	"github.com/andersondelgado/equity-sos/config"
+	"github.com/andersondelgado/equity-sos/model"
+	"github.com/andersondelgado/equity-sos/util"
 	"github.com/gin-gonic/gin"
 )
 

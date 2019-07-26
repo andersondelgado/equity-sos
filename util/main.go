@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"strings"
 
-	"../config"
-	"../model"
+	"github.com/andersondelgado/equity-sos/config"
+	"github.com/andersondelgado/equity-sos/model"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 	"github.com/timjacobi/go-couchdb"
